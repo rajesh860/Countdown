@@ -1,3 +1,1 @@
 # Countdown
-
-My_counter
