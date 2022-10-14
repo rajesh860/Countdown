@@ -8,6 +8,7 @@ setInterval(function(){
   document.getElementById("sec-box").innerHTML = sec
   document.getElementById("min-box").innerHTML= min
   document.getElementById("hr-box").innerHTML = hour
+  
   if (sec >= 60) {
     sec = 0
     min++
